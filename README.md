@@ -55,6 +55,7 @@ On DC-1 (domain controller), on the C:\ drive, create 3 folders: “read-access�
 </p>
 <p>
 Set the following permissions (share the folder) for the “Domain Users” group: Folder: 
+  
   “read-access”, Group: “Domain Users”, Permission: “Read”
 </p>
 <br />
