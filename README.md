@@ -36,8 +36,8 @@ Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Wri
 
 Create an “ACCOUNTANTS” Security Group, assign permissions,
 
-The above permissions were set with the intention to allow normal domain users access to only read accessable files, 
-while allowing members of the ACCOUNTING security group the ability to read and write inside of the files.
+Normal domain users are granted permission to only read from the "read-access" group, read and write in the "write-acces" group, and not acces the "no-access" group at all. 
+Admin only are allowed permission to acces the "no access" group.
 
 
 <h2>Actions and Observations</h2>
