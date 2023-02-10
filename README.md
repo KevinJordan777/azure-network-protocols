@@ -56,6 +56,8 @@ On DC-1 (domain controller), on the C:\ drive, create 3 folders: “read-access�
 Set the following permissions (share the folder) for the “Domain Users” group: Folder: 
   
   “read-access”, Group: “Domain Users”, Permission: “Read”
+  
+  Normal domain users are granted permission to only read from the "read-access" group.
 </p>
 <br />
 
@@ -66,6 +68,8 @@ Set the following permissions (share the folder) for the “Domain Users” grou
 Set the following permissions (share the folder) for the “Domain Users” group: Folder:
   
  Folder: “write-access”,  Group: “Domain Users”, Permissions: “Read/Write” 
+  
+  Normal domain users are granted permission to  read and write in the "write-acces" group.
 </p>
 <br />
 
@@ -76,5 +80,10 @@ Set the following permissions (share the folder) for the “Domain Users” grou
 Set the following permissions (share the folder) for the “Domain Users” group:
   
  Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write 
+  
+  Normal domain users are granted permission to  not access the "no-access" group at all.
+  
+  Admin only are allowed permission to access the "no access" group.
+   
 </p>
 <br />
