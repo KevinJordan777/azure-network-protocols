@@ -74,7 +74,7 @@ Set the following permissions (share the folder) for the “Domain Users” grou
 <br />
 
 <p>
-<img src="https://i.imgur.com/KqbRUVr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vamyV36.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Set the following permissions (share the folder) for the “Domain Users” group:
@@ -83,7 +83,7 @@ Set the following permissions (share the folder) for the “Domain Users” grou
   
   Normal domain users are not granted permission to access the "no-access" group at all.
   
-  Only Admin are allowed permission to access the "no access" group.
+  Only Domain Admin are allowed permission to access the "no access" group.
    
 </p>
 <br />
