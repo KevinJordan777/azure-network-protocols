@@ -23,10 +23,16 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+The objective of this section is to share resources over the network.
+
+Create sample file shares with various permissions.
+
+Set the following permissions (share the folder) for the “Domain Users” group:
+
+Folder: “read-access”, Group: “Domain Users”, Permission: “Read”
+Folder: “write-access”,  Group: “Domain Users”, Permissions: “Read/Write”
+Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write
+
 
 <h2>Actions and Observations</h2>
 
