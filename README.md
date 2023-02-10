@@ -23,7 +23,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-The objective of this section is to share resources over the network.
+Sharing out resources over the network.
 
 Create sample file shares with various permissions.
 
