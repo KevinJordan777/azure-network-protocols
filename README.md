@@ -35,7 +35,7 @@ Folder: “write-access”,  Group: “Domain Users”, Permissions: “Read/Wri
 Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write
 
 
-Normal domain users are granted permission to only read from the "read-access" group, read and write in the "write-acces" group, and not acces the "no-access" group at all. 
+Normal domain users are granted permission to only read from the "read-access" group, read and write in the "write-acces" group, and not access the "no-access" group at all. 
 Admin only are allowed permission to access the "no access" group.
 
 
@@ -70,9 +70,11 @@ Set the following permissions (share the folder) for the “Domain Users” grou
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KqbRUVr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Set the following permissions (share the folder) for the “Domain Users” group:
+  
+ Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write 
 </p>
 <br />
