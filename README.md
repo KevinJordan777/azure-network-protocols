@@ -23,9 +23,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-Sharing out resources over the network.
-
-Create sample file shares with various permissions.
+Sharing out resources over the network by:
+creating sample file shares with various permissions.
 
 Set the following permissions (share the folder) for the “Domain Users” group:
 
