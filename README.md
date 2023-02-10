@@ -51,7 +51,7 @@ On DC-1 (domain controller), on the C:\ drive, create 3 folders: “read-access�
 <br />
 
 <p>
-<img src="https://i.imgur.com/HRc9yfM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yy6bmz8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Set the following permissions (share the folder) for the “Domain Users” group: Folder: 
