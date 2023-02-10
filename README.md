@@ -30,7 +30,9 @@ Create sample file shares with various permissions.
 Set the following permissions (share the folder) for the “Domain Users” group:
 
 Folder: “read-access”, Group: “Domain Users”, Permission: “Read”
+
 Folder: “write-access”,  Group: “Domain Users”, Permissions: “Read/Write”
+
 Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write
 
 
