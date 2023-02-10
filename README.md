@@ -33,7 +33,10 @@ Folder: “read-access”, Group: “Domain Users”, Permission: “Read”
 
 Folder: “write-access”,  Group: “Domain Users”, Permissions: “Read/Write”
 
-Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write
+Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write 
+
+The above permissions were set with the intention to allow normal users acces to only read accessable files, 
+while allowing Admin the ability to read and write inside of the files.
 
 
 <h2>Actions and Observations</h2>
