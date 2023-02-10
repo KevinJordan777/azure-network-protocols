@@ -81,9 +81,9 @@ Set the following permissions (share the folder) for the “Domain Users” grou
   
  Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write 
   
-  Normal domain users are granted permission to  not access the "no-access" group at all.
+  Normal domain users are not granted permission to access the "no-access" group at all.
   
-  Admin only are allowed permission to access the "no access" group.
+  Only Admin are allowed permission to access the "no access" group.
    
 </p>
 <br />
