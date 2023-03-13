@@ -29,7 +29,7 @@ Login to VM1 with Remote Desktop(RDP)
 
 Download and install Wireshark to VM1. Then open wireshark and examine traffic coming from the ethernet connection.
 
-Open Power Shell in VM1 the PING the private IP address for VM2 10.0.0.5
+Open Power Shell in VM1 then PING the private IP address for VM2 10.0.0.5
 
 Access Network Security Gropus in Azure and block ICMP traffic in VM2 by adjusting the firewall and notice how the PING echo request is timed out.
 
