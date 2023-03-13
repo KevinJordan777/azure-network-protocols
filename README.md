@@ -70,7 +70,7 @@ Login to VM1 with Remote Desktop(RDP)
 <img src="https://i.imgur.com/JKPWX93.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Set the following permissions (share the folder) for the “Domain Users” group:
+
   
  Download and install Wireshark to VM1. Then open wireshark and examine traffic coming from the ethernet connection.
    
