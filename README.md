@@ -117,7 +117,7 @@ Login to VM1 with Remote Desktop(RDP)
 </p>
 <p>
 
-Access Network Security Groups in Azure and block ICMP traffic in VM2 by adjusting the firewall and notice how the PING echo request is timed out.
+Access Network Security Groups in Microsoft Azure and block ICMP traffic in VM2 by adjusting the firewall and notice how the PING echo request is timed out.
    
 </p>
 <br />
