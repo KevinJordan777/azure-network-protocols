@@ -29,6 +29,8 @@ Login to VM1 with Remote Desktop(RDP)
 
 Download and install Wireshark to VM1. Then open wireshark and examine traffic coming from the ethernet connection.
 
+Open 
+
 
 
 
