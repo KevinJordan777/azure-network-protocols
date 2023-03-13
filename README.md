@@ -90,15 +90,16 @@ Login to VM1 with Remote Desktop(RDP)
 <br />
 
 <p>
-<img src="https://i.imgur.com/XKJTsL2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9LByHfl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
   
- Open Power Shell in VM1 the PING the private IP address for VM2 10.0.0.5 
+ Open Power Shell in VM1 then PING run a continous Ping to the private IP address for VM2 10.0.0.5 
    
 </p>
 <br />
+
 
 <p>
 <img src="https://i.imgur.com/vamyV36.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
