@@ -79,17 +79,12 @@ Login to VM1 with Remote Desktop(RDP)
 </p>
 <br />
 
+
 <p>
 <img src="https://i.imgur.com/4cHl1YK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Set the following permissions (share the folder) for the “Domain Users” group:
-  
- Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write 
-  
-  Normal domain users are not granted permission to access the "no-access" group at all.
-  
-  Only Domain Admin are allowed permission to access the "no access" group.
+
    
 </p>
 <br />
