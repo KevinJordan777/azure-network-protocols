@@ -29,7 +29,7 @@ Login to VM1 with Remote Desktop(RDP)
 
 Download and install Wireshark to VM1. Then open wireshark and examine traffic coming from the ethernet connection.
 
-Open 
+Open Power Shell in VM1 the PING the private IP address for VM2 10.0.0.5
 
 
 
@@ -80,7 +80,7 @@ Login to VM1 with Remote Desktop(RDP)
 <br />
 
 <p>
-<img src="https://i.imgur.com/vamyV36.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4cHl1YK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Set the following permissions (share the folder) for the “Domain Users” group:
@@ -90,6 +90,17 @@ Set the following permissions (share the folder) for the “Domain Users” grou
   Normal domain users are not granted permission to access the "no-access" group at all.
   
   Only Domain Admin are allowed permission to access the "no access" group.
+   
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/XKJTsL2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  
+ Open Power Shell in VM1 the PING the private IP address for VM2 10.0.0.5 
    
 </p>
 <br />
@@ -108,6 +119,23 @@ Set the following permissions (share the folder) for the “Domain Users” grou
    
 </p>
 <br />
+
+
+<p>
+<img src="https://i.imgur.com/vamyV36.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Set the following permissions (share the folder) for the “Domain Users” group:
+  
+ Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write 
+  
+  Normal domain users are not granted permission to access the "no-access" group at all.
+  
+  Only Domain Admin are allowed permission to access the "no access" group.
+   
+</p>
+<br />
+
 
 <p>
 <img src="https://i.imgur.com/vamyV36.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
