@@ -43,14 +43,10 @@ Create 2 Virtual Machines inside of Azure. VM1 running Windows 10 (21H2) and VM2
 <br />
 
 <p>
-<img src="https://i.imgur.com/yy6bmz8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nhET0WJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Set the following permissions (share the folder) for the “Domain Users” group: Folder: 
-  
-  “read-access”, Group: “Domain Users”, Permission: “Read”
-  
-  Normal domain users are granted permission to only read from the "read-access" group.
+Login to VM1 with Remote Desktop(RDP)
 </p>
 <br />
 
