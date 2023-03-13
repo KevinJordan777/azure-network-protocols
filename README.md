@@ -23,20 +23,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-Sharing out resources over the network by
-creating sample file shares with various permissions.
-
-Set the following permissions (share the folder) for the “Domain Users” group:
-
-Folder: “read-access”, Group: “Domain Users”, Permission: “Read”
-
-Folder: “write-access”,  Group: “Domain Users”, Permissions: “Read/Write”
-
-Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write
+-Create 2 Virtual Machines inside of Azure. One VM running Windows 10 (21H2) and the other VM runnig Ubuntu Server 20.04
 
 
-Normal domain users are granted permission to only read from the "read-access" group, read and write in the "write-acces" group, and not access the "no-access" group at all. 
-Admin only are allowed permission to access the "no access" group.
 
 
 <h2>Actions and Observations</h2>
