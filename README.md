@@ -104,48 +104,23 @@ Login to VM1 with Remote Desktop(RDP)
 
 
 <p>
-<img src="https://i.imgur.com/vamyV36.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/awBZM1G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Set the following permissions (share the folder) for the “Domain Users” group:
-  
- Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write 
-  
-  Normal domain users are not granted permission to access the "no-access" group at all.
-  
-  Only Domain Admin are allowed permission to access the "no access" group.
    
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/vamyV36.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/R5IY1iQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Set the following permissions (share the folder) for the “Domain Users” group:
-  
- Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write 
-  
-  Normal domain users are not granted permission to access the "no-access" group at all.
-  
-  Only Domain Admin are allowed permission to access the "no access" group.
+
+Access Network Security Gropus in Azure and block ICMP traffic in VM2 by adjusting the firewall and notice how the PING echo request is timed out.
    
 </p>
 <br />
 
 
-<p>
-<img src="https://i.imgur.com/vamyV36.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Set the following permissions (share the folder) for the “Domain Users” group:
-  
- Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write 
-  
-  Normal domain users are not granted permission to access the "no-access" group at all.
-  
-  Only Domain Admin are allowed permission to access the "no access" group.
-   
-</p>
-<br />
+
