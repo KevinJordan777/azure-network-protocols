@@ -24,7 +24,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>High-Level Steps</h2> 
 
 Create 2 Virtual Machines inside of Azure. VM1 running Windows 10 (21H2) and VM2 runnig Ubuntu(Linux) Server 20.04 
+
 Login to VM1 with Remote Desktop(RDP)
+
 Download and install Wireshark to VM1. Then open wireshark and examine traffic coming from the ethernet connection.
 
 
