@@ -31,7 +31,7 @@ Download and install Wireshark to VM1. Then open wireshark and examine traffic c
 
 Open Power Shell in VM1 then PING the private IP address for VM2 10.0.0.5
 
-Access Network Security Gropus in Azure and block ICMP traffic in VM2 by adjusting the firewall and notice how the PING echo request is timed out.
+Access Network Security Groups in Azure and block ICMP traffic in VM2 by adjusting the firewall and notice how the PING echo request is timed out.
 
 
 
